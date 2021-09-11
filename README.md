@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fullmakeralchemist
 - 👀 I’m interested in IoT, Raspberry Pi and Arduino projects.
-- 🌱 I’m currently learning ML,IA, Django, and Flutter
+- 🌱 I’m currently learning ML, IA, Django, and Flutter
 - 💞️ I’m looking to collaborate on Raspberry ML projects.
 - 📫 How to reach me ... https://www.linkedin.com/in/josé-eduardo-padrón-ramírez-a83b3a209
 
